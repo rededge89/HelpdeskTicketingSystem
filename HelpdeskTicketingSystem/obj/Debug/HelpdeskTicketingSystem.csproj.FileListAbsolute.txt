@@ -1,0 +1,11 @@
+C:\Users\leary\source\repos\HelpdeskTicketingSystem\HelpdeskTicketingSystem\bin\Debug\HelpdeskTicketingSystem.exe.config
+C:\Users\leary\source\repos\HelpdeskTicketingSystem\HelpdeskTicketingSystem\bin\Debug\HelpdeskTicketingSystem.exe
+C:\Users\leary\source\repos\HelpdeskTicketingSystem\HelpdeskTicketingSystem\bin\Debug\HelpdeskTicketingSystem.pdb
+C:\Users\leary\source\repos\HelpdeskTicketingSystem\HelpdeskTicketingSystem\obj\Debug\HelpdeskTicketingSystem.csprojAssemblyReference.cache
+C:\Users\leary\source\repos\HelpdeskTicketingSystem\HelpdeskTicketingSystem\obj\Debug\HelpdeskTicketingSystem.Pages.UserDashboard.resources
+C:\Users\leary\source\repos\HelpdeskTicketingSystem\HelpdeskTicketingSystem\obj\Debug\HelpdeskTicketingSystem.Properties.Resources.resources
+C:\Users\leary\source\repos\HelpdeskTicketingSystem\HelpdeskTicketingSystem\obj\Debug\HelpdeskTicketingSystem.csproj.GenerateResource.cache
+C:\Users\leary\source\repos\HelpdeskTicketingSystem\HelpdeskTicketingSystem\obj\Debug\HelpdeskTicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\leary\source\repos\HelpdeskTicketingSystem\HelpdeskTicketingSystem\obj\Debug\HelpdeskTicketingSystem.exe
+C:\Users\leary\source\repos\HelpdeskTicketingSystem\HelpdeskTicketingSystem\obj\Debug\HelpdeskTicketingSystem.pdb
+C:\Users\leary\source\repos\HelpdeskTicketingSystem\HelpdeskTicketingSystem\obj\Debug\HelpdeskTicketingSystem.Pages.Login.resources
